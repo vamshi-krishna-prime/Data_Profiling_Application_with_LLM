@@ -20,7 +20,7 @@ contourpy
 cycler
 dacite
 dataclasses-json
-dateutils=
+dateutils
 decorator
 duckdb
 et-xmlfile
