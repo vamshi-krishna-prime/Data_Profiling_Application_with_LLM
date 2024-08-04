@@ -1,0 +1,13 @@
+
+Which countries have the most Invoices?
+
+Which city has the best customers?
+
+Who is the best customer?
+
+Use your query to return the email, first name, last name, and Genre of all Rock Music listeners. Return your list ordered alphabetically by email address starting with A.
+
+Now that we know that our customers love rock music, we can decide which musicians to invite to play at the concert. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name and total track count of the top 10 rock bands.
+
+Return all the track names that have a song length longer than the average song length. Though you could perform this with two queries. Imagine you wanted your query to update based on when new data is put in the database. Therefore, you do not want to hard code the average into your query. You only need the Track table to complete this query. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
+
